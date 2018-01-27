@@ -2,7 +2,7 @@
   "name": "fxe_interview",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gleb_vga.github.io/fxe_interview",
+  "homepage": "https://glebvga.github.io/fxe_interview",
   "dependencies": {
     "d3": "^4.12.2",
     "gh-pages": "^1.1.0",
